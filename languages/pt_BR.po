@@ -1,0 +1,43 @@
+# Translation of Plugins - Change Responsive Images
+# This file is distributed under the same license as the Plugins - Change Responsive Images.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2019-09-14 15:11-0300\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: fr\n"
+"Project-Id-Version: Plugins - Change Responsive Images\n"
+"POT-Creation-Date: \n"
+"Last-Translator: Richard <richard.venancio@gmail.com>\n"
+"Language-Team: \n"
+
+msgid "Media Description"
+msgstr "Descrição das Mídias"
+
+msgid "Image Descriptions"
+msgstr "Descrição das imagens"
+
+msgid "The sizes listed below determine the names and descriptions for the images."
+msgstr "Os tamanhos listados abaixo determinam os nomes e descrições para as imagens."
+
+msgid "The idea is to be easy for the users identify what kind of images they need to upload according to size."
+msgstr "A idéia é ser fácil para os usuários identificarem que tipo de imagens precisam carregar de acordo com o tamanho."
+
+msgid "Name"
+msgstr "Nome"
+
+msgid "Description"
+msgstr "Descrição"
+
+msgid "All Images"
+msgstr "Todas as Imagens"
+
+msgid "Replace"
+msgstr "Substituir"
+
+msgid "Size Name"
+msgstr "Nome do tamanho"
+
